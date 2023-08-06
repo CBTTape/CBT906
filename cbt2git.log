@@ -1,0 +1,15 @@
+2023-08-06 08:21:19.202172 - Initialized conversion of CBT906
+2023-08-06 08:21:19.315758 - Received CBT.V505.FILE906.PDS from FILE906.XMI 
+2023-08-06 08:21:19.317952 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE906.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:21:19.318991 - Found ###BIO.txt (text/plain) in CBT.V505.FILE906.PDS, moved to PDS/###BIO
+2023-08-06 08:21:19.319911 - Found @@MEMBER.txt (text/plain) in CBT.V505.FILE906.PDS, moved to PDS/@@MEMBER
+2023-08-06 08:21:19.320789 - Found @@README.txt (text/plain) in CBT.V505.FILE906.PDS, moved to PDS/@@README
+2023-08-06 08:21:19.321675 - Found @FILE906.txt (text/plain) in CBT.V505.FILE906.PDS, moved to PDS/@FILE906
+2023-08-06 08:21:19.322623 - Found @INST01.jcl (text/plain) in CBT.V505.FILE906.PDS, moved to PDS/@INST01
+2023-08-06 08:21:19.323559 - Found @INST02.jcl (text/plain) in CBT.V505.FILE906.PDS, moved to PDS/@INST02
+2023-08-06 08:21:19.324479 - Found @INST03.txt (text/plain) in CBT.V505.FILE906.PDS, moved to PDS/@INST03
+2023-08-06 08:21:19.325348 - Found @INST04.txt (text/plain) in CBT.V505.FILE906.PDS, moved to PDS/@INST04
+2023-08-06 08:21:19.326353 - Found STLSPACE.txt (text/plain) in CBT.V505.FILE906.PDS, moved to PDS/STLSPACE
+2023-08-06 08:21:19.327266 - Found STLSTB0X.txt (text/plain) in CBT.V505.FILE906.PDS, moved to PDS/STLSTB0X
+2023-08-06 08:21:19.328064 - Found STLSTB01.txt (text/plain) in CBT.V505.FILE906.PDS, moved to PDS/STLSTB01
+2023-08-06 08:21:19.328881 - Found STUCBSCN.txt (text/plain) in CBT.V505.FILE906.PDS, moved to PDS/STUCBSCN
